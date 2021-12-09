@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Piyush Pandey, Sophomore at IIT(ISM) Dhanbad.
+- 👋 Hi, I’m Piyush Pandey, Pre-Final year student at IIT(ISM) Dhanbad.
 - 👀 I’m interested in Deep Learning research and Data Science.
 - 🌱 I’m currently learning model deployment on cloud platform.
-- 💞️ I’m looking to collaborate on any Computer Vision project/ideas.
+- 💞️ I’m looking to collaborate on any Computer Vision or NLP project/ideas.
 - 📫 You can reach me at piyushpandey.19je0607@me.iitism.ac.in
 
 <!---
