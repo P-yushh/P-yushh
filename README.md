@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning research and Data Science.
 - 🌱 I’m currently learning model deployment on cloud platform.
 - 💞️ I’m looking to collaborate on any Computer Vision or NLP project/ideas.
-- 📫 You can reach me at piyushpandey.19je0607@me.iitism.ac.in
+- 📫 You can reach me at piyushpandey9415@gmail.com
 
 <!---
 P-yushh/P-yushh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
